@@ -14,3 +14,4 @@ As we explore Snap! and as we learn new ideas in computer science, you will be s
 | **Stage** | 1:8 |
 
 
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot"/>
