@@ -11,4 +11,6 @@ As we explore Snap! and as we learn new ideas in computer science, you will be s
 | **Script** | |
 | **Sprite** | 1:6 |
 | **Costume** (Each sprite can have multiple costumes.) | 1:7 |
-| **Stage** | a |
+| **Stage** | 1:8 |
+
+
