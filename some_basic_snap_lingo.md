@@ -5,9 +5,10 @@ As we explore Snap! and as we learn new ideas in computer science, you will be s
 ## Snap! Lingo
 | Term| Picture |
 | -- | -- |
-| **Block Palettes** (or block tabs)	 | ![1:2](block palette.png) |
-| 0:3 | 1:3 |
-| 0:4 | 1:4 |
-| 0:5 | 1:5 |
-| 0:6 | 1:6 |
-| 0:7 | 1:7 |
+| **Block Palettes** (or block tabs)	 | ![](block_palettes.png) |
+| **Tabs** (per sprite) | 1:3 |
+| **Blocks** | 1:4 |
+| **Script** | |
+| **Sprite** | 1:6 |
+| **Costume** (Each sprite can have multiple costumes.) | 1:7 |
+| **Stage** | a |
