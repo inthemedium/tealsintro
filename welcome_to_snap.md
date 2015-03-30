@@ -4,4 +4,4 @@ Let's [open up Snap!](http://snap.berkeley.edu/run) You will see a screen like t
 
 Play around for a while and see if you can figure out the major components of the interface. In the next step, you will make your first project and explore further.
 
-![](![](Introduction to Snap.png))
+![](Introduction to Snap.png)
